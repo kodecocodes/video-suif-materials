@@ -287,3 +287,30 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+02-view-protocol/final/My SwiftUI.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+03-modifiers/final/My SwiftUI.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+03-modifiers/starter/My SwiftUI.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+04-challenge-views-modifiers/final/Modifier Match Challenge.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+05-state-binding/final/State and Binding.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+04-challenge-views-modifiers/starter/Modifier Match Challenge.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+05-state-binding/starter/State and Binding.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+06-challenge-state-binding/final/State and Binding.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+06-challenge-state-binding/starter/State and Binding.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+07-layout-with-stacks/final/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+07-layout-with-stacks/starter/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+08-repeat-views-forEach-list/final/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+08-repeat-views-forEach-list/starter/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+09-challenge-stacks-ForEach/final/Weather Widget Challenge.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+09-challenge-stacks-ForEach/starter/Weather Widget Challenge.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+11-navigation/final/PublicArt.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+11-navigation/starter/PublicArt.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+12-modal-views/final/PublicArt.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+12-modal-views/starter/PublicArt.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+13-challenge-navigation-bindings/final/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+13-challenge-navigation-bindings/starter/Stacks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+14-state-state-objects/final/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+14-state-state-objects/starter/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+15-observable-objects/final/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+15-observable-objects/starter/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+16-environment/final/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+16-environment/starter/FaveFlicks.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
