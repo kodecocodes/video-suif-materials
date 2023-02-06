@@ -100,6 +100,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
+				ORGANIZATIONNAME = Kodeco;
 				TargetAttributes = {
 					0A5E87FB25602D270013BB0E = {
 						CreatedOnToolsVersion = 12.3;
@@ -280,7 +281,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.raywenderlich.Modifier-Match-Challenge";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.Modifier-Match-Challenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -301,7 +302,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.raywenderlich.Modifier-Match-Challenge";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.Modifier-Match-Challenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -97,6 +97,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
+				ORGANIZATIONNAME = KOdeco;
 				TargetAttributes = {
 					0A33588E256065030089687E = {
 						CreatedOnToolsVersion = 12.3;
@@ -276,7 +277,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.raywenderlich.State-and-Binding";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.State-and-Binding";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,7 +298,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.raywenderlich.State-and-Binding";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.State-and-Binding";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
