@@ -44,7 +44,7 @@ struct ContentView: View {
         }
       }
       .listStyle(PlainListStyle())
-      .navigationBarTitle("Artworks")
+      .navigationTitle("Artworks")
       
       DetailView(artwork: artworks[0])
     }

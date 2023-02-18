@@ -36,17 +36,17 @@ struct ContentView: View {
   @State var artworks = artData
   
   var body: some View {
-    NavigationView {
+    NavigationStack {
       List(artworks) { artwork in
-        NavigationLink(
-          destination: DetailView(artwork: artwork)) {
+        NavigationLink(value: artwork) {
           Text(artwork.title)
         }
       }
       .listStyle(PlainListStyle())
       .navigationBarTitle("Artworks")
-      
-      DetailView(artwork: artworks[0])
+      .navigationDestination(for: Artwork.self) { artwork in
+          DetailView(artwork: artwork)
+      }
     }
   }
 }

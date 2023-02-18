@@ -37,7 +37,6 @@ struct ContentView: View {
     VStack {
       HStack(alignment: .bottom, spacing: 20.0) {
         Thumbnail()
-        
         VStack(alignment: .leading) {
           MixDescription()
           Buttons()
@@ -45,7 +44,6 @@ struct ContentView: View {
       }
       .padding()
       .frame(minHeight: 150, maxHeight: 250)
-      
       Spacer()
     }
   }

@@ -32,12 +32,15 @@
 
 import SwiftUI
 
-//TODO: reference the LookAndFeelStore here
-//TODO: You'll also need some @State properties here - views below need bindings
+
 let symbols = ["star", "rectangle", "triangle", "circle"]
 
 
 struct LookAndFeelView: View {
+  
+  //TODO: reference the LookAndFeelStore here
+  //TODO: You'll also need some @State properties here - views below need bindings
+  
   var body: some View {
     NavigationView {
       Form {
@@ -61,8 +64,9 @@ struct LookAndFeelView: View {
           }
       )
     }
+    //TODO: like the UserView, be sure to update thing in onAppear
   }
-  //TODO: like the UserView, be sure to update thing in onAppear
+  
   
   func updateLookAndFeelInfo() {
     //TODO: update the store here

@@ -49,6 +49,17 @@ struct Artwork {
   }
 }
 
+extension Artwork: Hashable, Equatable {
+    func hash(into hasher: inout Hasher) {
+        hasher.combine(id)
+    }
+    
+    static func ==(lhs: Artwork, rhs: Artwork) -> Bool {
+        return lhs.id == rhs.id && lhs.title == rhs.title
+    }
+}
+
+
 extension Artwork: Identifiable { }
 
 // Subset of Honolulu Public Art data set at

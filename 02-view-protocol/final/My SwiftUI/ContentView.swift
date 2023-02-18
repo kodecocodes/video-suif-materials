@@ -35,8 +35,8 @@ import SwiftUI
 struct ContentView: View {
   var body: some View {
     VStack {
-      Image(systemName: "swift")
       Text("Howdy, world!")
+      Image(systemName: "swift")
     }
   }
 }

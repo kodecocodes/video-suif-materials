@@ -35,17 +35,17 @@ import SwiftUI
 struct ContentView: View {
   var body: some View {
     VStack {
+      Text("Howdy, world!")
+        .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+        .kerning(5.0)
       Image(systemName: "swift")
         .resizable()
         .frame(width: 100.0, height: 100.0)
         .padding()
         .background(Color.orange)
         .padding([.leading, .bottom, .trailing])
-      Text("Howdy, world!")
-        .fontWeight(.bold)
-        .kerning(5.0)
-        .padding()
     }
+    .padding()
   }
 }
 
